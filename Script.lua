@@ -1,4 +1,4 @@
-local a = Instance.new("Part")
+local a = Instance.New("Part")
 
 a.Parent = workspace
 
